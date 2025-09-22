@@ -1,0 +1,5 @@
+{
+  "name": "usuario/escuela24",
+  "description": "Proyecto Escuela24 en PHP",
+  "require": {}
+}
